@@ -1,1 +1,1 @@
-mysql:latest registry.cn-hangzhou.aliyuncs.com/zouhanhang/mysql:9.0
+fauria/vsftpd registry.cn-hangzhou.aliyuncs.com/zouhanhang/ftp:9.0
